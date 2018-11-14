@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Gobbledegook3()
+comment1.params=
+comment1.target=java.util.LinkedList\ loadWordsFromFile()
+comment2.params=artist
+comment2.target=void\ displayUser(java.lang.String)
+comment3.params=x\ y
+comment3.target=int\ compare(wordCount2,\ wordCount2)
+comment4.params=
+comment4.target=void\ displayAll()
+numComments=5

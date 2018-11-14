@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=word
+comment0.target=wordCount2(java.lang.String)
+comment1.params=count\ name\ word
+comment1.target=wordCount2(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getword()
+comment3.params=word
+comment3.target=void\ setword(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getname()
+comment5.params=name
+comment5.target=void\ setname(java.lang.String)
+comment6.params=
+comment6.target=java.lang.Integer\ getcount()
+comment7.params=count
+comment7.target=void\ setcount(java.lang.Integer)
+comment8.params=other
+comment8.target=int\ compareTo(wordCount2)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
